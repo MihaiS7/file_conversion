@@ -1,9 +1,9 @@
-# # File conversion from numbers to csv ONLY for MAC users
+# # File conversion from numbers to csv for MAC users
 
 
 # This will help you to easily convert your .numbers file into csv whenever you need it, for free. 
 
-Why is this only for MAC users only?
+Why is this only for MAC users?
 - is using AppleScript code
 - most of the times, the .numbers extension, is a format used by Numbers, which is an Apple application
 
