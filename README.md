@@ -1,6 +1,5 @@
 # # File conversion from numbers to csv for MAC users
 
-
 # This will help you to easily convert your .numbers file into csv whenever you need it, for free. 
 
 Why is this only for MAC users?
@@ -13,3 +12,7 @@ How to use:
 2. Navigate to the directory
 3. Make sure you have a .numbers file in your directory
 4. Enjoy !!
+
+To do list:
+
+1. Make an alike version but for Windows
