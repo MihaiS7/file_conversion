@@ -17,4 +17,5 @@ for file in os.listdir():
         '''
         
         subprocess.call(['osascript', '-e', script])
+        
         os.remove(file)
